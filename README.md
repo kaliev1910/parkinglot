@@ -369,9 +369,4 @@ http://localhost:3000
     <img src ="screenshots/grafana_9.PNG">
 </details>
 
-### Contributors
 
-- [Sercan Noyan Germiyanoğlu](https://github.com/Rapter1990)
-- [Muhammet Oğuzhan Aydoğdu](https://github.com/moaydogdu)
-- [Mehmet Şeymus Yüzen](https://github.com/mehmetseymusyuzen)
-- [Harun Yusuf Ekşioğlu](https://github.com/artfulCoder98)
